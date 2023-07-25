@@ -1,4 +1,4 @@
-# chatgpt-web
+# chatgpt-web-Plus
 * chatgpt+midjoureny，WEB平台，包含独立后台。
 * 使用 Nestjs 和 Vue3 搭建的 AIGC 生态社区
 ## 在线使用：[用户端体验](https://aihello.pro)
